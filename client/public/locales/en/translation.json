@@ -1,0 +1,16 @@
+{
+    "home": {
+        "1": "Do you need help?",
+        "2": "If you need help press button below.",
+        "3": "Report disaster"
+    },
+    "footer": {
+        "1": "All rights reserved"
+    },
+    "navbar": {
+        "1": "SOS call",
+        "2": "Instructions",
+        "3": "Be a volunteer",
+        "4": "Alerts"
+    }
+}
